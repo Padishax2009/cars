@@ -1,0 +1,9 @@
+body{
+    background: url(./img/bacground.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img{
+    border-radius: 15px;
+}

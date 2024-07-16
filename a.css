@@ -1,0 +1,9 @@
+body{
+    background: url(./img/bmw1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img{
+    border-radius: 20px;
+}

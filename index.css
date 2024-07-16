@@ -1,0 +1,14 @@
+body{
+    background: url(./img/bacground.webp);
+    background-repeat: no-repeat;
+  background-size: cover;
+color: white;
+background-attachment: fixed; 
+}
+a{
+  font-size: 30px;
+  color: white;
+}
+img{
+  border-radius: 20px;
+}

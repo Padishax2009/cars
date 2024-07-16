@@ -1,0 +1,10 @@
+body{
+    background: url(./img/bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+}
+img{
+    border-radius: 10px;
+}
